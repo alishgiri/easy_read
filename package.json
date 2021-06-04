@@ -10,6 +10,9 @@
     "start:firefox": "web-ext run -t firefox-desktop --source-dir ./src/"
   },
   "license": "MIT",
+  "author": {
+    "name": "Alish Giri"
+  },
   "devDependencies": {
     "web-ext": "^6.1.0"
   }
